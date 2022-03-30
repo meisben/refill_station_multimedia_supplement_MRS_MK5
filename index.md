@@ -6,11 +6,7 @@ title: Welcome!
 [![logoPicture](images/green_green_robotics_logo_v1.png)]()
 
 
-This website provides a gateway to the intructions and feedback form for the refill station prototype.
-
-The links to the video and instruction document are password protected for reasons of confidentiality. The password has been made available (written [A] on the refill station and [B] in the operation manual foreword). Please use this to access the links.
-
-Many thanks for trying out the refill station!
+This website provides a gateway to the intructions and feedback form for the refill station (MRS-MK5).
 
 <!--Comment: Paragrpah spacing-->
 
