@@ -22,7 +22,7 @@ Many thanks!
 <h2>Resources (MRS-MK5)</h2> 
   <p>Please click on the links below to access them!</p>
 <ul class="list-group">
-  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoibGx1VjQ4NkVKR0lPZlNKVjBVVkxTQ3orSWMwR0dVTzRpTVJJUlBKTVRlbXp1ZHYxelg0UGFCdmtsNzRhamsxUCtBbHExTTJYOFl6MElyK0RibFBhVzJqblpwUWZsMmFoMlFmZHNaSHQxUEpSTVpoMk84Rld0SThtNUxTZWlxSndvVzg9IiwiaCI6IlBhc3N3b3JkIGlzIHByb3ZpZGVkIHZpYSBlbWFpbCBvciBpbiB0aGUgb3BlcmF0aW9uIG1hbnVhbCBmb3IgdGhlIHJlZmlsbCBzdGF0aW9uIiwiaSI6IldNalNoTkJYL2tVLzFpV04ifQ==" target="_blank" class="list-group-item list-group-item-action">Written instructions (MRS-MK5)</a>
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicEI5NjJOS0tSK3RrUEo0NmljM2NkQmFlQW0xdkVFTjBGNHdYUUxHM2VES1FQZDZiRVk2dGdBYngvVHdBM0tvVnV4US9BTkVmc0ZVVElGbmtUb2JkOHdEQXMrRElNaWlCRjd1YmpNMUhsQ2R4QnJ4amZCUU90ZnhVRlJOQ0ExcVZUbnM9IiwiaCI6IlBhc3N3b3JkIGlzIHByb3ZpZGVkIHZpYSBlbWFpbCBvciBpbiB0aGUgb3BlcmF0aW9uIG1hbnVhbCBmb3IgdGhlIHJlZmlsbCBzdGF0aW9uIiwiaSI6InRaU0RjRjllRmJ6amg2cTAifQ==" target="_blank" class="list-group-item list-group-item-action">Written instructions (MRS-MK5)</a>
 </ul>
 </div>
 
