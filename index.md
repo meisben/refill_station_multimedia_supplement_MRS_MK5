@@ -10,7 +10,7 @@ This website provides a gateway to the intructions and feedback form for the ref
 
 The links to the video and instruction document are password protected for reasons of confidentiality. The password has been made available (Via prior email and in the operation manual foreword). Please use this to access the links.
 
-If you require the password to be resent please don't hesitate to pop an email to: greengreentechnology@gmail.com
+If you require the password to be resent please don't hesitate to pop an email to: [greengreentechnology@gmail.com](mailtto:greengreentechnology@gmail.com)
 
 Many thanks!
 

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Prototype refill station - supplementary material
+title: Refill station - supplementary material
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   GREEN GREEN TECHNOLOGY LIMITED
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "meisben/refill_station_multimedia_supplement"
+repository: "meisben/refill_station_multimedia_supplement_MRS_MK5"
 
 # Build settings
 plugins:
