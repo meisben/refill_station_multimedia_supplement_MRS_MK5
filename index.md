@@ -22,7 +22,7 @@ Many thanks!
 <h2>Resources (MRS-MK5)</h2> 
   <p>Please click on the links below to access them!</p>
 <ul class="list-group">
-  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoicEI5NjJOS0tSK3RrUEo0NmljM2NkQmFlQW0xdkVFTjBGNHdYUUxHM2VES1FQZDZiRVk2dGdBYngvVHdBM0tvVnV4US9BTkVmc0ZVVElGbmtUb2JkOHdEQXMrRElNaWlCRjd1YmpNMUhsQ2R4QnJ4amZCUU90ZnhVRlJOQ0ExcVZUbnM9IiwiaCI6IlBhc3N3b3JkIGlzIHByb3ZpZGVkIHZpYSBlbWFpbCBvciBpbiB0aGUgb3BlcmF0aW9uIG1hbnVhbCBmb3IgdGhlIHJlZmlsbCBzdGF0aW9uIiwiaSI6InRaU0RjRjllRmJ6amg2cTAifQ==" target="_blank" class="list-group-item list-group-item-action">Written instructions (MRS-MK5)</a>
+  <a href="https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSmt4a0tSZ3llMW5IWFZhU2VqWlFENEdTSXBiU2E4bUZTdnlHdTdXMTMyWVhIN0ZQUlNwaFJPTW9Nd3RPbHlzTmxibHZ3ak1SeUJFNzVudlVrcDdmcC9tbDZqMEpRMDBhc0REYXQxYnkydWFkQWNLR2F2UVk0YVFwSVJHNUxoVnBkcU09IiwiaCI6IlBhc3N3b3JkIGlzIHByb3ZpZGVkIHZpYSBlbWFpbCBvciBpbiB0aGUgb3BlcmF0aW9uIG1hbnVhbCBmb3IgdGhlIHJlZmlsbCBzdGF0aW9uIiwiaSI6Im01Z3NtbE5UQ0hWM0pIRGQifQ==" target="_blank" class="list-group-item list-group-item-action">Written instructions (MRS-MK5)</a>
 </ul>
 </div>
 
@@ -31,7 +31,10 @@ Many thanks!
 <h2>Feedback</h2> 
   <p>Please click on the links below to access them!</p>
 <ul class="list-group">
-  <a href="https://forms.gle/fnGcoFX5Y7wbEVjX7" target="_blank" class="list-group-item list-group-item-action">Feedback form</a>
+  <a href="https://forms.gle/fnGcoFX5Y7wbEVjX7" target="_blank" class="list-group-item list-group-item-action">Anonymous feedback form</a>
+</ul>
+<ul class="list-group">
+  <a href="https://drive.google.com/file/d/1qc2qaKzh6jL6UVYJPsMmPIHy8mYnLFU-/view?usp=sharing" target="_blank" class="list-group-item list-group-item-action">Customer feedback pdf for displaying in-store</a>
 </ul>
 </div>
 
